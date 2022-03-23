@@ -1,0 +1,4 @@
+encoder.c:10:18:encoder_init	32	static
+encoder.c:25:22:encoder_run	32	static
+encoder.c:42:5:_encoder_calPulseDiff	32	static
+encoder.c:57:10:encoder_getTickDiff	24	static

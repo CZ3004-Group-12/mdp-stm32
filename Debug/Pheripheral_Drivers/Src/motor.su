@@ -1,0 +1,3 @@
+motor.c:9:16:motor_init	32	static
+motor.c:20:6:motor_set_pwm	32	static
+motor.c:57:6:_motor_set_pin	16	static

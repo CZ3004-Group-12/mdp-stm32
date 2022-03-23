@@ -1,0 +1,5 @@
+uart.c:13:15:uart_init	24	static
+uart.c:19:6:set_TxBuffer	16	static
+uart.c:24:11:get_RxBuffer	16	static
+uart.c:29:6:uart_transmit	16	static
+uart.c:34:10:uart_recieve	16	static

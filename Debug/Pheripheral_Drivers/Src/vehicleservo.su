@@ -1,0 +1,10 @@
+vehicleservo.c:19:8:vehicleservo_radian	16	static
+vehicleservo.c:23:8:vehicleservo_degree	16	static
+vehicleservo.c:28:8:_vehicleservo_max_shaft_range_l	48	static
+vehicleservo.c:35:8:_vehicleservo_max_shaft_range_r	48	static
+vehicleservo.c:45:8:vehicleservo_get_required_shaft_shift	64	static
+vehicleservo.c:53:8:vehicleservo_get_required_servo_angle	56	static
+vehicleservo.c:61:8:vehicleservo_get_required_servo_pwm	48	static
+vehicleservo.c:69:8:vehicleservo_get_required_servo_pwm_simple	48	static
+vehicleservo.c:76:23:vehicleservo_init	24	static
+vehicleservo.c:87:6:vehicleservo_set_wheel_angle	40	static

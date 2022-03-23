@@ -1,0 +1,5 @@
+diff.c:10:8:diff_rotations	24	static
+diff.c:15:8:diff_radian	16	static
+diff.c:18:8:diff_get_Lmotor_values	48	static
+diff.c:32:8:diff_get_Rmotor_values	48	static
+diff.c:47:8:diff_get_ideal_turn_reduction	24	static
